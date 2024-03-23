@@ -4,4 +4,4 @@ set -ex
 
 # Check logs
 
-echo ${ANDROID_VERSION_CODE}
+echo ${RUN_COMMIT_DATE_STEP}
